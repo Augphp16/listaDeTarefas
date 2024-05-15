@@ -27,5 +27,5 @@
 <h5>Query's SQL</h5>
 <br>
 <p>CREATE DATABASE database_name;</p>
-<br>USE database_name;
-<br>CREATE TABLE tasks(id INT PRIMARY KEY AUTO_INCREMENT, title VARCHAR(45) NOT NULL, status VARCHAR(45)NOT NULL, created_at VARCHAR(45) NOT NULL);
+<p>USE database_name;
+<p>CREATE TABLE tasks(id INT PRIMARY KEY AUTO_INCREMENT, title VARCHAR(45) NOT NULL, status VARCHAR(45)NOT NULL, created_at VARCHAR(45) NOT NULL);
