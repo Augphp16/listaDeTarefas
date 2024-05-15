@@ -26,11 +26,6 @@
 
 <h5>Query's SQL</h5>
 <br>
-<p>Criar banco de dados:<br>CREATE DATABASE database_name;</p>
-<p>Criar tabela:<br>USE database_name;<br>CREATE TABLE tasks(
-    INT PRIMARY KEY AUTO_INCREMENT,
-    title VARCHAR(45) NOT NULL,
-    status VARCHAR(45) NOT NULL,
-    created_at VARCHAR(45) NOT NULL
-);
-<p>
+<p>CREATE DATABASE database_name;</p>
+<br>USE database_name;
+<br>CREATE TABLE tasks(id INT PRIMARY KEY AUTO_INCREMENT, title VARCHAR(45) NOT NULL, status VARCHAR(45)NOT NULL, created_at VARCHAR(45) NOT NULL);
