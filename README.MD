@@ -14,4 +14,10 @@
 
 <h5>Clonar Repositório:</h5>
 <br>
-<p>git clone </p>
+<p>Digite no terminal "git clone https://github.com/Augphp16/listaDeTarefas"</p>
+
+<hr>
+
+<h5>Instalar dependências:</h5>
+<br>
+<p>Digite no terminal "cd backend/" <br>npm install</p>
