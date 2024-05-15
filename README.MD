@@ -28,9 +28,9 @@
 <br>
 <p>Criar banco de dados:<br>CREATE DATABASE database_name;</p>
 <p>Criar tabela:<br>USE database_name;<br>CREATE TABLE tasks(
-    <br>    id INT PRIMARY KEY AUTO_INCREMENT,
-    <br>    title VARCHAR(45) NOT NULL,
-    <br>    status VARCHAR(45) NOT NULL,
-    <br>    created_at VARCHAR(45) NOT NULL
-    <br>);
+    INT PRIMARY KEY AUTO_INCREMENT,
+    title VARCHAR(45) NOT NULL,
+    status VARCHAR(45) NOT NULL,
+    created_at VARCHAR(45) NOT NULL
+);
 <p>
