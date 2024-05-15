@@ -5,7 +5,9 @@
 <hr>
 
 <h3>Tecnologias:</h3>
-<p>NodeJS, Express, MySQL, HTML5, CSS3 e JavaScript</p>
+<p>FrontEnd: HTML5, CSS3 e JavaScript</p>
+<p>BackEnd: NodeJS, Express</p>
+<p>Banco de dados: MySQL</p>
 
 <hr>
 
