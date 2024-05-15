@@ -20,4 +20,16 @@
 
 <h5>Instalar dependências:</h5>
 <br>
-<p>Digite no terminal "cd backend/" <br>npm install</p>
+<p>Digite no terminal "cd backend/" <br>"npm install"</p>
+
+<hr>
+
+<h5>Query's SQL</h5>
+<br>
+<p>Criar banco de dados:<br>CREATE DATABASE database_name;</p>
+<p>Criar tabela:<br>USE database_name;<br>CREATE TABLE tasks(
+    <br>    id INT PRIMARY KEY AUTO_INCREMENT,
+    <br>    title VARCHAR(45) NOT NULL,
+    <br>    status VARCHAR(45) NOT NULL,
+    <br>    created_at VARCHAR(45) NOT NULL
+    <br>);
